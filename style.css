@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-smoothing: 'antialiased';
+    -webkit-font-smoothing: 'antialiased';
+}
+
+html, body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(13, 27, 35);
+    color: #fff;
+}
